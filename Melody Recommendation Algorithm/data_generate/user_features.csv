@@ -1,0 +1,101 @@
+user_id,style,age,gender,location
+1,"Rock, Blues",39,Male,CityA
+2,"Blues, Jazz",42,Male,CityC
+3,"At Home, Chill",39,Female,CityB
+4,"Classical, Instrumental",32,Female,CityC
+5,"Punk, Rock",22,Female,CityB
+6,"Dance/Electronic, Pop",20,Male,CityB
+7,"Jazz, Blues",43,Female,CityA
+8,"Love, Chill",39,Female,CityA
+9,"Afro, R&B",20,Female,CityB
+10,"Chill, Ambient",28,Female,CityB
+11,"Joy, Party",22,Male,CityC
+12,"Country, Folk",44,Male,CityB
+13,"ESFP, Pop",39,Female,CityB
+14,"ENFP, Focus",43,Male,CityA
+15,"Workout, Hip-Hop",30,Female,CityA
+16,"Classical, Jazz",34,Female,CityC
+17,"Focus, Ambient",34,Male,CityC
+18,"Blues, Jazz",28,Male,CityB
+19,"Chill, Lounge",43,Male,CityC
+20,"Party, Dance/Electronic",33,Female,CityA
+21,"Jazz, Classical",43,Male,CityC
+22,"Date Night Dinner, Love",40,Male,CityC
+23,"R&B, Soul",33,Male,CityB
+24,"Afro, World",44,Female,CityC
+25,"Classical, Instrumental",20,Male,CityA
+26,"Dance/Electronic, House",27,Female,CityB
+27,"Punk, Rock",34,Female,CityC
+28,"Joy, Pop",24,Female,CityC
+29,"Chill, Ambient",41,Female,CityA
+30,"Classical, Jazz",34,Male,CityA
+31,"At Home, Chill",35,Female,CityC
+32,"Rock, Punk",37,Male,CityC
+33,"Dance/Electronic, Techno",18,Female,CityC
+34,"Workout, Hip-Hop",35,Male,CityB
+35,"Blues, Jazz",21,Female,CityB
+36,"Jazz, Blues",25,Female,CityC
+37,"Afro, World",18,Male,CityC
+38,"Chill, Lounge",18,Male,CityC
+39,"Punk, Rock",30,Male,CityB
+40,"Blues, Jazz",40,Female,CityC
+41,"Joy, Pop",33,Female,CityB
+42,"ISFP, Focus",35,Female,CityB
+43,"R&B, Soul",27,Female,CityA
+44,"Punk, Rock",24,Male,CityA
+45,"At Home, Chill",28,Female,CityA
+46,"Chill, Ambient",35,Female,CityC
+47,"Joy, Party",19,Female,CityC
+48,"Classical, Instrumental",33,Male,CityB
+49,"Party, Dance/Electronic",21,Female,CityA
+50,"R&B, Soul",37,Female,CityB
+51,"Focus, Ambient",29,Female,CityC
+52,"Dance/Electronic, House",18,Male,CityA
+53,"Classical, Instrumental",45,Male,CityB
+54,"At Home, Chill",42,Female,CityC
+55,"Jazz, Blues",31,Female,CityB
+56,"R&B, Soul",22,Female,CityB
+57,"Blues, Jazz",44,Female,CityB
+58,"Joy, Pop",45,Female,CityA
+59,"Workout, Hip-Hop",33,Male,CityA
+60,"Punk, Rock",34,Male,CityC
+61,"Dance/Electronic, Techno",27,Female,CityB
+62,"Joy, Party",34,Female,CityB
+63,"R&B, Soul",32,Male,CityA
+64,"Dance/Electronic, House",35,Male,CityB
+65,"Punk, Rock",24,Female,CityA
+66,"At Home, Chill",30,Female,CityB
+67,"Jazz, Blues",39,Male,CityA
+68,"Focus, Ambient",44,Female,CityA
+69,"Rock, Punk",33,Male,CityC
+70,"ISFP, Focus",26,Male,CityA
+71,"Dance/Electronic, Techno",30,Female,CityC
+72,"Blues, Jazz",39,Male,CityB
+73,"Afro, World",28,Male,CityA
+74,"Punk, Rock",31,Male,CityB
+75,"R&B, Soul",35,Male,CityA
+76,"Chill, Lounge",38,Male,CityB
+77,"Focus, Ambient",32,Male,CityC
+78,"Joy, Party",18,Male,CityB
+79,"At Home, Chill",40,Female,CityC
+80,"Classical, Instrumental",19,Female,CityA
+81,"Punk, Rock",38,Female,CityA
+82,"Dance/Electronic, House",44,Female,CityB
+83,"Joy, Pop",18,Male,CityB
+84,"Rock, Blues",39,Male,CityA
+85,"Blues, Jazz",41,Female,CityC
+86,"Focus, Ambient",35,Female,CityB
+87,"Dance/Electronic, Techno",33,Male,CityC
+88,"At Home, Chill",44,Female,CityA
+89,"Chill, Ambient",41,Female,CityC
+90,"Chill, Focus",25,Female,CityC
+91,"Workout, Hip-Hop",29,Female,CityA
+92,"Joy, Party",21,Male,CityA
+93,"Chill, Ambient",21,Female,CityB
+94,"Rock, Punk",20,Male,CityA
+95,"Punk, Rock",19,Female,CityA
+96,"R&B, Soul",39,Male,CityB
+97,"Classical, Instrumental",26,Male,CityC
+98,"Chill, Ambient",39,Male,CityB
+99,"Dance/Electronic, House",35,Female,CityB
+100,"At Home, Chill",30,Female,CityB
